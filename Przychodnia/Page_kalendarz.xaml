@@ -1,0 +1,17 @@
+﻿<Page x:Class="Przychodnia.Page_kalendarz"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Przychodnia"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_kalendarz" Background="LightGray" Height="635" Width="1067">
+
+    <Grid>
+        <DataGrid x:Name="datagrid_kalendarz" HorizontalAlignment="Left" Height="529" Margin="427,58,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Najbliższa wizyta" HorizontalAlignment="Left" Margin="448,10,0,0" VerticalAlignment="Top" Width="174" Height="43" FontSize="20" FontWeight="Bold"/>
+        <Calendar HorizontalAlignment="Left" Margin="860,32,0,0" VerticalAlignment="Top" Height="171" Width="184"/>
+        <TextBlock x:Name="txt_zegar" HorizontalAlignment="Left" Margin="883,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="161" FontSize="16"/>
+    </Grid>
+</Page>

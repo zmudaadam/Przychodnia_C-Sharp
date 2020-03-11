@@ -1,0 +1,670 @@
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\LoginScreen.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia z pages\Przychodnia\Przychodnia\obj\Debug\LoginScreen.baml
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\LoginScreen.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\LoginScreen.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\5 Bez bazy, logowanie, strony\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\LoginScreen.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\LoginScreen.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\7 Logowanie, strony, strona zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Przychodnia Zoofizjoterapeutyczna\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Kopia programu\8,5 logowanie z 1 ogólną bazą, srtrony, itd\8 Logowanie z bazą, strony, zamknij\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\10 jedna DB, logowanie, notatnik — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\11 jedna baza, logowanie z wyjątkami, notatnik z wyjątkami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\MATEUSZPOGRANICZNY\Downloads\Przychodnia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\11\Przychodnia\Przychodnia\DB\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_rejestracja.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Page_zamknij.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze\PrzychodniaPoprawiona- działa, nowa tabela pacjenci, bez zwierzaków\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2)\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Najnowsze 2 — kopia (2) — kopia — kopia — kopia\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Z komentarzami\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+E:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+D:\Moje dokumenty\Adam\STUDIA\STUDIA WSZ\Inżynier\Gotowy program inżynierski\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojAssemblyReference.cache
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.lref
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Logowanie.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_dodawanie_pacjenta.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_kalendarz.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_notatki.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Page_pacjenci.baml
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.cache
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.CoreCompileInputs.cache
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\ZmudaCorp\Desktop\Bez komentarzy\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb

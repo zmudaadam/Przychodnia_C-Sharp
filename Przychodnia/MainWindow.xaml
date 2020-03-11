@@ -1,0 +1,21 @@
+﻿<Window x:Class="Przychodnia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Przychodnia"
+        mc:Ignorable="d"
+        Title="PRZYCHODNIA" Height="700" Width="1067">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Height="65" VerticalAlignment="Top" Background="#2e3137">
+            <!--wiersz górny-->
+            <Button x:Name="add_pacjent" Content="REJESTRACJA PACJENTA" Margin="10,0,0,0" HorizontalAlignment="Left" Height="45" VerticalAlignment="Center" Width="164" Foreground="White" Background="#FF2B7CD4" Click="Add_pacjent_Click" FontSize="14" />
+            <Button x:Name="zobacz_pacjent" Content="PACJENCI" Margin="10,0,0,0" HorizontalAlignment="Left" Height="45" VerticalAlignment="Center" Width="164" Foreground="White" Background="#FF2B7CD4" Click="Zobacz_pacjent_Click" FontSize="14"/>
+            <Button x:Name="zobacz_kalendarz" Margin="10,0,0,0" Content="KALENDARZ" HorizontalAlignment="Left" Height="45" VerticalAlignment="Center" Width="164" Foreground="White" Background="#FF2B7CD4" Click="Zobacz_kalendarz_Click" FontSize="14"/>
+            <Button x:Name="zobacz_notatki" Content="NOTATKI" Margin="10,0,0,0" HorizontalAlignment="Left" Height="45"  VerticalAlignment="Center" Width="164" Foreground="White" Background="#FF2B7CD4" Click="Zobacz_notatki_Click" FontSize="14"/>
+            <Button x:Name="wylacz_program" Content="WYŁĄCZ PROGRAM" Margin="10,0,0,0" HorizontalAlignment="Left" Height="45" VerticalAlignment="Center" Width="164" Click="Wylacz_program_Click" Background="#FF33B799" FontSize="14"/>
+            <Button x:Name="wyloguj" Content="WYLOGUJ" Margin="10,0,0,0" HorizontalAlignment="Left" Height="45" VerticalAlignment="Center" Width="164"  Background="#FF33B799" FontSize="14" Click="Wyloguj_Click"/>
+        </StackPanel>
+        <Frame x:Name="Panel_dolny" Margin="0,65,0,0" Background="LightGray" NavigationUIVisibility="Hidden" Height="635" Width="1067"></Frame>
+    </Grid>
+</Window>

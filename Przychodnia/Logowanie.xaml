@@ -1,0 +1,22 @@
+﻿<Window x:Class="Przychodnia.LoginScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Przychodnia"
+        mc:Ignorable="d"
+        Title="Logowanie" Height="320" Width="300" FontSize="14" Background="LightGray" HorizontalAlignment="Center">
+    <Border Background="#2e3137" CornerRadius="20" Margin="20">
+        <StackPanel>
+            <Label Content="Logowanie" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator></Separator>
+            <Label Content="Login" Foreground="White" Margin="10,0,10.328,0"/>
+            <TextBox Name="txtLogin" TabIndex="1" Background="#545d6a" Foreground="White" FontSize="18" Margin="10,0,10.328,0"/>
+            <Label Content="Hasło" Foreground="White" Margin="10,0,10.328,0"/>
+            <PasswordBox Name="txtHaslo" TabIndex="2" Background="#545d6a" Foreground="White" FontSize="18" Margin="10,0,10.328,0"/>
+            <Button Name="buttonLogowanie" TabIndex="3" Content="Zaloguj" Margin="60 10" Background="#545d6a" Foreground="White" FontSize="18" Click="ButtonLogowanie_Click"/>
+            <Button x:Name="button_exit" Content="EXIT" TabIndex="4" Background="#545d6a" Margin="60 2" Foreground="White" FontSize="18" Click="Button_exit_Click"/>
+
+        </StackPanel>
+    </Border>
+</Window>
